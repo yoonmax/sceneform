@@ -2,7 +2,9 @@
 
 Turn photos and video into explorable 3D scenes.
 
-**Live demo:** not deployed yet. This README gets a link only after a deployment has been checked.
+**Live:** [sceneform.vercel.app](https://sceneform.vercel.app)
+
+The public site is the viewer: the four reference scenes, inspection, measurement, edits, exports and an in-browser input check. Reconstructing your own footage needs the local server (see [Run locally](#run-locally)).
 
 sceneform is a 3D reconstruction studio. Upload a short video or a set of overlapping photos. It finds where every photo was taken, builds a dense coloured point cloud, depth maps, an optional surface mesh and (on supported GPUs) a trained Gaussian splat, then lets you explore the result in the browser.
 
