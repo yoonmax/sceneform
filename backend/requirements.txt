@@ -1,0 +1,20 @@
+fastapi==0.163.1
+httpx==0.28.1
+imageio-ffmpeg==0.8.1
+msplat==1.1.4 ; sys_platform == "darwin" and platform_machine == "arm64"
+numpy==2.5.5
+opencv-contrib-python-headless==5.0.0.93
+pillow==13.0.0
+plyfile==1.1.5
+pycolmap==4.2.1
+pydantic==2.14.3
+pytest==9.2.0
+python-multipart==0.0.34
+safetensors==0.8.0
+scikit-image==0.26.0
+scipy==1.18.1
+torch==2.15.0
+torchvision==0.29.2
+transformers==5.23.0
+trimesh==5.2.1
+uvicorn==0.54.0

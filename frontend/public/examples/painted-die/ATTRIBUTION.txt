@@ -1,0 +1,4 @@
+"Photogrammetry Test Set: Dice - Turntable - Strong Lights - Thin Messy Watercolors" by alansartlog
+License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Source: https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-thin-messy-watercolors
+Reconstruction (point cloud, cameras, depth, mesh, splat) produced with sceneform from the source above.

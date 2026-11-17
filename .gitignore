@@ -1,0 +1,22 @@
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+backend/var/
+
+# Raw inputs and pipeline working directories (rebuild with backend/scripts/build_examples.py)
+data/
+
+# Node / build
+frontend/node_modules/
+frontend/dist/
+frontend/test-results/
+frontend/playwright-report/
+
+# Local tooling
+.vercel/
+.DS_Store
+*.log
+.env
+.env.*

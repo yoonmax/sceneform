@@ -1,0 +1,4 @@
+"Photogrammetry Test Set: Skull - Cameramoves - Weak Light - No Background" by alansartlog
+License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Source: https://gitlab.com/photogrammetry-test-sets/skull-cameramoves-weak-light-no-background
+Reconstruction (point cloud, cameras, depth, mesh, splat) produced with sceneform from the source above.

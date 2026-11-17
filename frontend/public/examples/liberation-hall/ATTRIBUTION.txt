@@ -1,0 +1,5 @@
+Kelheim Befreiungshalle Video by User:Mattes (Wikimedia Commons), released into the public domain
+License: Public domain (https://commons.wikimedia.org/wiki/File:Kelheim_Befreiungshalle_Video.ogv)
+Source: https://commons.wikimedia.org/wiki/File:Kelheim_Befreiungshalle_Video.ogv
+Note: Transcoded from Ogg Theora to MP4 before processing.
+Reconstruction (point cloud, cameras, depth, mesh, splat) produced with sceneform from the source above.

@@ -1,0 +1,5 @@
+Sculpture by Theodora Barazzone at Cimetière des Rois (turntable video) by Rama, Wikimedia Commons
+License: CC BY-SA 3.0 FR (https://creativecommons.org/licenses/by-sa/3.0/fr/deed.en)
+Source: https://commons.wikimedia.org/wiki/File:Sculpture_by_Theodora_Barazzone_at_Cimeti%C3%A8re_des_Rois-turntable-0001-0250.ogv
+Note: The source video is itself a rendered turntable of a 3D scan, not raw camera footage. Derived outputs in this folder are shared under the same license.
+Reconstruction (point cloud, cameras, depth, mesh, splat) produced with sceneform from the source above.
